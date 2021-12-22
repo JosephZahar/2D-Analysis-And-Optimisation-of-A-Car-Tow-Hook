@@ -26,7 +26,9 @@ The first subplot shows a sharp decrease of the maximum displacement when increa
 </p>
 
 <p align="center">
+  
 ![Picture1](https://user-images.githubusercontent.com/70657426/147085401-786ac8c9-9f0f-4bfe-81de-6489dd2c6718.png)
+
 </p>
 
 <p align="justify">
